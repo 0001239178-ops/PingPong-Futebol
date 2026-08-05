@@ -10,8 +10,9 @@
 ## *Demonstração do Projeto*
 
 | Interface / UI |
-| :---: | :---: |
-| ![UI] |
+
+<img width="706" height="398" alt="Captura de tela 2026-08-05 135634" src="https://github.com/user-attachments/assets/64013166-94e8-4313-906d-a099d2b98090" />
+
 
 ---
 
@@ -30,7 +31,19 @@
 ## ✨ *Trecho De Código em Destaque*
 
 ```csharp
+void Update()
+{
+    if (jogador1)
+    {
+        moveY = Input.GetAxisRaw("Vertical");
 
+    }
+    else
+    {
+        moveY = Input.GetAxisRaw("Vertical2");
+    }
+
+}
 ```
 
 ---
