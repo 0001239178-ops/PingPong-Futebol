@@ -4,6 +4,8 @@
 ## 📖Informações
 * **Engine:** Unity 
 * **Linguagem:** C#
+  
+---
 
 ## *Demonstração do Projeto*
 
@@ -11,22 +13,25 @@
 | :---: | :---: |
 | ![UI] |
 
+---
+
 ## 🛠️ *Mecânicas e Funcionalidades*
 
 ### Já Implementadas:
--[x] Movimentação Do Jogador(Cima/Baixo)
--[x] Audio VFX adicionados
--[x] Placar da Partida
+-[x] Movimentação Do Jogador(Cima/Baixo).
+-[x] Audio VFX adicionados.
+-[x] Placar da Partida.
 
 ### Em Desenolvimento:
--[] Personalização De Raquete/Arena/Bola
-
-
+-[] Personalização De Raquete/Arena/Bola.
+---
 ## ✨ *Trecho De Código em Destaque*
 
 ```csharp
 
 ```
+
+---
 
 ## 🌐 Como Rodar o Projeto Localmente
 
