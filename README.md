@@ -8,4 +8,4 @@
 ## Feito por
 [Rafins 𖹭.ᐟ](https://github.com/0001239178-ops)
 
-[Raphael 𖦹.ᐟ](?)
+[Raphael 𖦹.ᐟ](https://github.com/0001238702-tech)
